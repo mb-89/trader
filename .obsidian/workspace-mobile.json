@@ -11,10 +11,17 @@
             "id": "c056764e53c692f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -162,7 +169,7 @@
   },
   "active": "c056764e53c692f1",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "README.md"
   ]
 }
